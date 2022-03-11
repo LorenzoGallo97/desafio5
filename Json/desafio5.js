@@ -1,5 +1,5 @@
 {
-  "name"; "desafio_5",
+  "name"; "desafio_6",
   "version"; "0.1.0",
   "private"; true,
   "dependencies"; {
